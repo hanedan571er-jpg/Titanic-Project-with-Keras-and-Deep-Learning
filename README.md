@@ -1,0 +1,1 @@
+Ders kalıbı: Ödeve özgü kayıt hücresi. Uyarlama: Açıklamalardaki sayılar sonuclar/R.json dosyasından doldurulur. Gerçek sonuç: 68 değer kaydedildi. Türkçe yorum: Açıklamalardaki sayılar elle yazılmadı; notebook yeniden çalışırsa birlikte güncellenir.
